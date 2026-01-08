@@ -13,3 +13,6 @@
 # Folder
 wildlife/
 faces/
+
+# Files
+vggface.h5
