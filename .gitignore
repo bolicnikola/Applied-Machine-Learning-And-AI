@@ -16,3 +16,4 @@ faces/
 
 # Files
 vggface.h5
+MaskRCNN-12-int8.onnx
